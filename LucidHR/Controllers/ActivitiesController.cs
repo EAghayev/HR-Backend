@@ -7,6 +7,8 @@ using LucidHR.Filter;
 
 namespace LucidHR.Controllers
 {
+
+    //Login Authorize
     [Auth]
     public class ActivitiesController : Controller
     {
